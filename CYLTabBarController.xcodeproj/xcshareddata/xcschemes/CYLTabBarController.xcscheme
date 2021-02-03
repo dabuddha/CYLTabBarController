@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1100"
+   LastUpgradeVersion = "1240"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9AE942731BDC91B800354519"
-               BuildableName = "CYLTabBarController.app"
+               BlueprintIdentifier = "267DBDF425CAC0320081975C"
+               BuildableName = "CYLTabBarController.framework"
                BlueprintName = "CYLTabBarController"
                ReferencedContainer = "container:CYLTabBarController.xcodeproj">
             </BuildableReference>
@@ -40,16 +40,6 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9AE942731BDC91B800354519"
-            BuildableName = "CYLTabBarController.app"
-            BlueprintName = "CYLTabBarController"
-            ReferencedContainer = "container:CYLTabBarController.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -57,16 +47,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9AE942731BDC91B800354519"
-            BuildableName = "CYLTabBarController.app"
+            BlueprintIdentifier = "267DBDF425CAC0320081975C"
+            BuildableName = "CYLTabBarController.framework"
             BlueprintName = "CYLTabBarController"
             ReferencedContainer = "container:CYLTabBarController.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
